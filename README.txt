@@ -3,7 +3,7 @@ Studi_Stage
 
 2. Description :
 The purpose of this code is to display a software on your local web browser that allows you to 
-- select an image (please pay attention to the size, a test image is given to you),
+- select an image (please pay attention to the size),
 - to apply a mathematical convolution
 - display side by side the original image and the result of the convolution 
 - download result of the convolution
