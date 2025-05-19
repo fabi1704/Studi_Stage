@@ -35,7 +35,7 @@ Install the dependencies
 % pip install -r requirements.txt
 
 Run the program locally, make sure you are in the folder where you have the file manage.py
-% python3 manage.py runserver
+% python3 main.py
 
 Open your favorite web browser and go to http://127.0.0.1:8000/
 You should be able to interact with the project. 
