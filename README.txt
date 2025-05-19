@@ -13,31 +13,31 @@ In the future, the software will also allow you to have information on image tre
 3. Algorithm installation and operation :
 Working with visual studio code on MacOS Ventura 13.7.1
 
-#Start visual studio code and use the terminal to go to the place you want to locate the project (example Desktop)
+Start visual studio code and use the terminal to go to the place you want to locate the project (example Desktop)
 % cd ..
 
-#Create a new directory entitled your FolderName
+Create a new directory entitled your FolderName
 % mkdir FolderName
 
-#Migrate into your folder FolderName
+Migrate into your folder FolderName
 % cd FolderName
 
-#Create a python virtual environment VirtualEnvironmentName
+Create a python virtual environment VirtualEnvironmentName
 % python3 -m venv VirtualEnvironmentName
 
-#Activate your virtual environment
+Activate your virtual environment
 % source VirtualEnvironmentName/bin/activate
 
-#clone the project from GitHub
+clone the project from GitHub
 % git clone https://github.com/fabi1704/paris_2025
 
-#Install the dependencies
+Install the dependencies
 % pip install -r requirements.txt
 
-#Run the program locally, make sure you are in the folder where you have the file manage.py
+Run the program locally, make sure you are in the folder where you have the file manage.py
 % python3 manage.py runserver
 
-#Open your favorite web browser and go to http://127.0.0.1:8000/
+Open your favorite web browser and go to http://127.0.0.1:8000/
 You should be able to interact with the project. 
 
 4. Contribution :
@@ -51,10 +51,10 @@ Step 6: Create a Pull Request.
 For more details see:
 https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project
 
-5. Licence :
+5. Licence : 
 CeCILL FREE SOFTWARE LICENSE AGREEMENT
 Version 2.1 dated 2013-06-21
 https://cecill.info/
 
-6. Contact :
+6. Contact : 
 Comments and questions are welcome and can be emailed to fabienne@studi.com
