@@ -29,7 +29,7 @@ Activate your virtual environment
 % source VirtualEnvironmentName/bin/activate
 
 clone the project from GitHub
-% git clone https://github.com/fabi1704/paris_2025
+% git clone https://github.com/fabi1704/Studi_Stage
 
 Install the dependencies
 % pip install -r requirements.txt
